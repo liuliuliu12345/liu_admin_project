@@ -1,0 +1,7 @@
+{
+  // iview 组件按需引入
+  "plugins": [["import", {
+    "libraryName": "iview",
+    "libraryDirectory": "src/components"
+  }]]
+}
